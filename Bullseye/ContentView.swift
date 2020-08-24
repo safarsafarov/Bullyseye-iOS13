@@ -45,14 +45,14 @@ struct ContentView: View {
                 print("Points awarded: \(self.pointsForCurrentRound())")
                 self.alertIsVisible = true
                 self.score = self.score + self.pointsForCurrentRound()
+                self.target = Int.random(in: 1...100)
             }) {
                 Text("Hit me!")
-            }
-                    .alert(isPresented: self.$alertIsVisible) {
-                        Alert(title: Text("Hello there!"),
+            }.alert(isPresented: self.$alertIsVisible) {
+                Alert(title: Text("Hello there!"),
                                 message: Text(self.scoringMessage()),
                                 dismissButton: .default(Text("Awesome!")))
-                    }
+            }
 
             Spacer()
 
