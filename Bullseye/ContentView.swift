@@ -45,11 +45,11 @@ struct ContentView: View {
            }) {
             Text("Hit me!")
            }
-           .alert(isPresented: self.$alertIsVisible) {
+           alert(isPresented: self.$alertIsVisible) {
             Alert(title: Text("Hello there!"),
-                message: Text("The slider's value is \(Int(self.sliderValue.rounded()))."),
-                dismissButton: .default(Text("Awesome!")))
-            }
+            message: Text("The slider's value is \(Int(self.sliderValue.rounded())).\n" + "The target value is \(self.target).\n" + "You scored \(pointsForCurrentRound())points this round."),
+            dismissButton: .default(Text("Awesome!")))
+           }
             
             Spacer()
             
@@ -75,17 +75,18 @@ struct ContentView: View {
     }
     // Methods
     // =======
-    func pointsForCurrentRound() -> Int {
-     var difference: Int
-        if Int(self.sliderValue.rounded()) > self.target {
-            difference = Int(self.sliderValue.rounded()) - self.target
-        } else if self.target > Int(self.sliderValue.rounded()) {
-            difference = self.target - Int(self.sliderValue.rounded())
-        } else {
-            difference = 0
-        }
-     return 100 - difference
+  func pointsForCurrentRound() -> Int {
+    let sliderValueRounded = Int(self.sliderValue.rounded())
+    let difference: Int
+    if sliderValueRounded > self.target {
+        difference = sliderValueRounded - self.target
+    } else if self.target > sliderValueRounded {
+        difference = self.target - sliderValueRounded
+    } else {
+        difference = 0
     }
+    return 100 - difference
+   }
     
 }
 
