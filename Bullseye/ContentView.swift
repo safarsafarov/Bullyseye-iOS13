@@ -69,6 +69,7 @@ struct ContentView: View {
                     Text("Info")
                 }
             }
+
            .padding(.bottom, 20)
             // TODO: Add views for the score, rounds, and start info buttons here.
         }
