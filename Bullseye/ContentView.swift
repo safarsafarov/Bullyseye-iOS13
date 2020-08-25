@@ -80,9 +80,15 @@ struct ContentView: View {
     // Methods
     // =======
     func pointsForCurrentRound() -> Int {
-        let maximumScore = 100
-        let difference = abs(self.sliderValueRounded - self.target)
-        return maximumScore - difference
+        let difference: Int
+        if self.sliderValueRounded > self.target {
+            difference = self.sliderValueRounded - self.target
+        } else if self.target > self.sliderValueRounded {
+            difference = self.target - self.sliderValueRounded
+        } else {
+            difference = 0
+        }
+        return 100 - difference
     }
 
     func scoringMessage() -> String {
