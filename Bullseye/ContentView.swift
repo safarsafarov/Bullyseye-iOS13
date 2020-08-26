@@ -24,7 +24,6 @@ struct ContentView: View {
     var sliderTargetDifference: Int {
         abs(sliderValueRounded - target)
     }
-    @State var score = 0
     // User interface content and layout
     var body: some View {
         VStack {
@@ -32,7 +31,7 @@ struct ContentView: View {
             // Target row
             HStack {
                 Text("Put the bullseye as close as you can to:”")
-                Text("100")
+                Text("\(target)")
             }
 
             // Slider row
@@ -51,9 +50,12 @@ struct ContentView: View {
             }) {
                 Text("Hit me!")
             }.alert(isPresented: self.$alertIsVisible) {
-                Alert(title: Text("Hello there!"),
-                                message: Text(self.scoringMessage()),
-                                dismissButton: .default(Text("Awesome!")))
+                Alert(title: Text(alertTitle()),
+                        message: Text(self.scoringMessage()),
+                        dismissButton: .default(Text("Awesome!")) {
+                            self.startNewRound()
+                        }
+                )
             }
 
             Spacer()
@@ -76,8 +78,11 @@ struct ContentView: View {
                     Text("Info")
                 }
             }
-
                     .padding(.bottom, 20)
+            .onAppear() {
+                self.startNewRound()
+            }
+            .background(Image("background"))
             // TODO: Add views for the score, rounds, and start info buttons here.
         }
     }
@@ -129,10 +134,9 @@ struct ContentView: View {
     }
 
     func resetSliderAndTarget(){
-        sliderValue = 50.0
+        sliderValue = Double.random(in: 1...100)
         target = Int.random(in: 1...100)
     }
-
 
 
 // Preview
@@ -144,4 +148,5 @@ struct ContentView: View {
             }
         }
     #endif
+
 }
