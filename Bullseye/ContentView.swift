@@ -59,7 +59,6 @@ struct ContentView: View {
             }
 
             Spacer()
-
             // Score row
             HStack {
                 Button(action: {
@@ -82,10 +81,13 @@ struct ContentView: View {
             .onAppear() {
                 self.startNewRound()
             }
-            .background(Image("background"))
+
+
             // TODO: Add views for the score, rounds, and start info buttons here.
         }
+
     }
+
     // Methods
     // =======
     func pointsForCurrentRound() -> Int {
