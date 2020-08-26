@@ -95,7 +95,11 @@ struct ContentView: View {
         return "The slider's value is \(self.sliderValueRounded).\n" +
                 "The target value is \(self.target).\n" +
                 "You scored \(self.pointsForCurrentRound()) points this round."
-        }
+    }
+
+
+
+
 // Preview
 // =======
     #if DEBUG
