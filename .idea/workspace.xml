@@ -23,51 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a60a11fc-53cc-4287-9988-0e9188f7eb77" name="Default Changelist" comment="Bullseye-ios13">
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Background.imageset/Background@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Button-Highlighted.imageset/Button-Highlighted@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Button-Normal.imageset/Button-Normal@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Button-Normal.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/InfoButton.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/InfoButton.imageset/InfoButton@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderThumb-Highlighted.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderThumb-Highlighted.imageset/SliderThumb-Highlighted@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderThumb-Normal.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderThumb-Normal.imageset/SliderThumb-Normal@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderTrackLeft.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderTrackLeft.imageset/SliderTrackLeft@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderTrackRight.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SliderTrackRight.imageset/SliderTrackRight@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SmallButton.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/SmallButton.imageset/SmallButton@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/StartOverIcon.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/StartOverIcon.imageset/StartOverIcon@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye.xcodeproj/project.xcworkspace/xcuserdata/safarovsafar.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye.xcodeproj/project.xcworkspace/xcuserdata/safarovsafar.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye.xcodeproj/xcuserdata/safarovsafar.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye.xcodeproj/xcuserdata/safarovsafar.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Icon-20.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Background.imageset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Icon-20.imageset/Icon-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/AppIcon.appiconset/Icon-20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/background.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye/Assets.xcassets/Button-Highlighted.imageset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/background.imageset/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/background.imageset/background@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/Assets.xcassets/background.imageset/background@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bullseye/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Bullseye/ContentView.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +84,8 @@
       <workItem from="1598294854699" duration="1836000" />
       <workItem from="1598346983622" duration="395000" />
       <workItem from="1598379170624" duration="2709000" />
-      <workItem from="1598438511783" duration="4806000" />
+      <workItem from="1598438511783" duration="4906000" />
+      <workItem from="1598623134790" duration="498000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1598288777435</created>
@@ -186,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598455100559</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Bullseye-ios13">
+      <created>1598456322439</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598456322439</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,33 +178,33 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="894" y="404" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1417/-1440.844.1440.877@0.23.2560.1417" timestamp="1598290946741" />
-    <state width="2518" height="141" key="GridCell.Tab.0.bottom" timestamp="1598456228452">
+    <state width="2518" height="141" key="GridCell.Tab.0.bottom" timestamp="1598456339536">
       <screen x="0" y="23" width="2560" height="1325" />
     </state>
     <state width="2518" height="182" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1440.821.1440.900@0.0.2560.1440" timestamp="1598299316472" />
     <state width="2113" height="262" key="GridCell.Tab.0.bottom/0.23.2560.1320/-1440.844.1440.877@0.23.2560.1320" timestamp="1598294582441" />
-    <state width="2518" height="141" key="GridCell.Tab.0.bottom/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456228452" />
+    <state width="2518" height="141" key="GridCell.Tab.0.bottom/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456339536" />
     <state width="2219" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.844.1920.1177@0.23.2560.1417" timestamp="1598288857013" />
-    <state width="2518" height="141" key="GridCell.Tab.0.center" timestamp="1598456228451">
+    <state width="2518" height="141" key="GridCell.Tab.0.center" timestamp="1598456339535">
       <screen x="0" y="23" width="2560" height="1325" />
     </state>
     <state width="2518" height="182" key="GridCell.Tab.0.center/0.0.2560.1440/-1440.821.1440.900@0.0.2560.1440" timestamp="1598299316471" />
     <state width="2113" height="262" key="GridCell.Tab.0.center/0.23.2560.1320/-1440.844.1440.877@0.23.2560.1320" timestamp="1598294582441" />
-    <state width="2518" height="141" key="GridCell.Tab.0.center/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456228451" />
+    <state width="2518" height="141" key="GridCell.Tab.0.center/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456339535" />
     <state width="2219" height="271" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.844.1920.1177@0.23.2560.1417" timestamp="1598288857012" />
-    <state width="2518" height="141" key="GridCell.Tab.0.left" timestamp="1598456228451">
+    <state width="2518" height="141" key="GridCell.Tab.0.left" timestamp="1598456339535">
       <screen x="0" y="23" width="2560" height="1325" />
     </state>
     <state width="2518" height="182" key="GridCell.Tab.0.left/0.0.2560.1440/-1440.821.1440.900@0.0.2560.1440" timestamp="1598299316470" />
     <state width="2113" height="262" key="GridCell.Tab.0.left/0.23.2560.1320/-1440.844.1440.877@0.23.2560.1320" timestamp="1598294582440" />
-    <state width="2518" height="141" key="GridCell.Tab.0.left/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456228451" />
+    <state width="2518" height="141" key="GridCell.Tab.0.left/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456339535" />
     <state width="2219" height="271" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.844.1920.1177@0.23.2560.1417" timestamp="1598288857012" />
-    <state width="2518" height="141" key="GridCell.Tab.0.right" timestamp="1598456228451">
+    <state width="2518" height="141" key="GridCell.Tab.0.right" timestamp="1598456339536">
       <screen x="0" y="23" width="2560" height="1325" />
     </state>
     <state width="2518" height="182" key="GridCell.Tab.0.right/0.0.2560.1440/-1440.821.1440.900@0.0.2560.1440" timestamp="1598299316471" />
     <state width="2113" height="262" key="GridCell.Tab.0.right/0.23.2560.1320/-1440.844.1440.877@0.23.2560.1320" timestamp="1598294582441" />
-    <state width="2518" height="141" key="GridCell.Tab.0.right/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456228451" />
+    <state width="2518" height="141" key="GridCell.Tab.0.right/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456339536" />
     <state width="2219" height="271" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.844.1920.1177@0.23.2560.1417" timestamp="1598288857013" />
     <state x="253" y="133" width="1520" height="1072" key="SettingsEditor" timestamp="1598379510911">
       <screen x="0" y="23" width="2560" height="1325" />
@@ -249,12 +213,12 @@
     <state x="253" y="133" key="SettingsEditor/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598379510911" />
     <state x="66" y="329" width="1520" height="1072" key="SettingsEditor/0.23.2560.1417/-1440.844.1440.877@0.23.2560.1417" timestamp="1598291101663" />
     <state x="961" y="358" key="SettingsEditor/0.23.2560.1417/-1920.844.1920.1177@0.23.2560.1417" timestamp="1598288726612" />
-    <state x="824" y="420" key="Vcs.Push.Dialog.v2" timestamp="1598455120012">
+    <state x="824" y="420" key="Vcs.Push.Dialog.v2" timestamp="1598456329908">
       <screen x="0" y="23" width="2560" height="1325" />
     </state>
     <state x="824" y="431" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1440.821.1440.900@0.0.2560.1440" timestamp="1598438618299" />
     <state x="824" y="418" key="Vcs.Push.Dialog.v2/0.23.2560.1320/-1440.844.1440.877@0.23.2560.1320" timestamp="1598297426796" />
-    <state x="824" y="420" key="Vcs.Push.Dialog.v2/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598455120012" />
+    <state x="824" y="420" key="Vcs.Push.Dialog.v2/0.23.2560.1325/-1440.844.1440.877@0.23.2560.1325" timestamp="1598456329908" />
     <state x="824" y="447" key="Vcs.Push.Dialog.v2/0.23.2560.1417/-1920.844.1920.1177@0.23.2560.1417" timestamp="1598289442626" />
     <state x="1037" y="628" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598288760954">
       <screen x="0" y="23" width="2560" height="1417" />
